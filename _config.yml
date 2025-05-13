@@ -1,1 +1,6 @@
 title: egn789 Pages
+description: 00년생 걸그룹 연습생 서혜윤 유출 사건 원본
+# GitHub 공식 테마들 중 'minimal'
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
