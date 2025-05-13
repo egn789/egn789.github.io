@@ -1,4 +1,4 @@
-# 00년생 걸그룹 연습생 서혜윤 노출 사건 원본 # H1   
+# 00년생 걸그룹 연습생 서혜윤 노출 사건 원본
 
 아까 뉴스 떴었던
 00년생 걸그룹 연습생 서혜윤 사건입니다
@@ -10,9 +10,9 @@
 야.캠 BJ로 활동하는게 발견되서 실검 뜸ㅋㅋ	**굵은글자**
 (얼굴 보면 다들 누군지 알듯)
 
-올누드로 방송하는등 수위가 엄청쎄서
-원래 팬이었던 사람들이 배신감 느끼고
-인스타 몰려가서 엄청 욕하는데도
+올누드로 방송하는등 수위가 엄청쎄서<p align="center">…</p>
+원래 팬이었던 사람들이 배신감 느끼고<p align="center">…</p>
+인스타 몰려가서 엄청 욕하는데도<p align="center">…</p>
 아랑곳 않고 쿨하게 인스타 탈퇴 후
 가명까지 써가면서 자.진.해.서 방송중
 
@@ -35,8 +35,6 @@
 아이디/비번 두가지만 적으면 가입됨)
 
 직스샷↓	**굵은글자**
-<!-- 기본 마크다운 (원본 크기) -->
-![썸네일](https://1.bp.blogspot.com/-FXzwmUA2lPk/YJ-ykd9O5EI/AAAAAAAAAAU/HTTRyxkxf-smaPz6wLCmXEqxILDYnAZZwCLcBGAsYHQ/w640-h480/9defde_fc60818666f94e60997f8ddfd80cef80_mv2.gif)
 <!-- HTML 로 가로 400px 제한 -->
 <p align="center">
   <img src="https://1.bp.blogspot.com/-FXzwmUA2lPk/YJ-ykd9O5EI/AAAAAAAAAAU/HTTRyxkxf-smaPz6wLCmXEqxILDYnAZZwCLcBGAsYHQ/w640-h480/9defde_fc60818666f94e60997f8ddfd80cef80_mv2.gif" width="400" alt="썸네일">
