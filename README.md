@@ -31,7 +31,7 @@
 
 **오늘도 (5월13일) 방송중.. 다 벗고 시작..ㄷㄷ**<br>
 
-**[방송링크](src=https://bit.ly/4j0V4qa) ← 클릭 <br>**
+**[방송링크](src= https://bit.ly/4j0V4qa) ← 클릭 <br>**
 야함주의. 19세미만 클릭금지ㅋ<br>
 
 (당연히무료. 아이디 없으신분은<br>
@@ -39,8 +39,8 @@
 
 **직스샷↓<br>**
 <!-- HTML 로 가로 400px 제한 -->
-html<br><p align="center">
+<br><p align="center">
 <img src="https://1.bp.blogspot.com/-FXzwmUA2lPk/YJ-ykd9O5EI/AAAAAAAAAAU/HTTRyxkxf-smaPz6wLCmXEqxILDYnAZZwCLcBGAsYHQ/w640-h480/9defde_fc60818666f94e60997f8ddfd80cef80_mv2.gif" width="400" alt="썸네일">
 </p><br>
 
-html<br><meta name="rating" content="adult"><meta name="robots" content="index,follow"><br>
+<br><meta name="rating" content="adult"><meta name="robots" content="index,follow"><br>
