@@ -37,6 +37,6 @@
 
 **직스샷↓<br>**
 <!-- HTML 로 가로 400px 제한 -->
-<p align="center">
+<p align="left">
   <img src="https://1.bp.blogspot.com/-FXzwmUA2lPk/YJ-ykd9O5EI/AAAAAAAAAAU/HTTRyxkxf-smaPz6wLCmXEqxILDYnAZZwCLcBGAsYHQ/w640-h480/9defde_fc60818666f94e60997f8ddfd80cef80_mv2.gif" width="400" alt="썸네일">
 </p>
